@@ -1,0 +1,13 @@
+Source: cutefish-cursor-themes
+Section: kde
+Priority: optional
+Maintainer: Reion Wong <reion@cutefishos.com>
+Build-Depends:
+Standards-Version: 3.9.6
+Homepage: https://cutefishos.com
+Vcs-Git: https://github.com/cutefishos
+
+Package: cutefish-cursor-themes
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: CutefishOS Cursor Theme
